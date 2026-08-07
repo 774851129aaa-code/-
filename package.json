@@ -1,1 +1,12 @@
-
+{
+  "name": "news-app",
+  "version": "1.0.0",
+  "description": "موقع إخباري بسيط مع لوحة تحكم",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
