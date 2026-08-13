@@ -1,0 +1,20 @@
+{
+  "name": "لآخرتي",
+  "short_name": "لآخرتي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/x8CY0MNn/lakhrty-20260812-192629.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://i.postimg.cc/x8CY0MNn/lakhrty-20260812-192629.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
