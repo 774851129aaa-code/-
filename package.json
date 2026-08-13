@@ -1,12 +1,10 @@
 {
-  "name": "news-app",
+  "name": "lakhrty",
   "version": "1.0.0",
-  "description": "موقع إخباري بسيط مع لوحة تحكم",
+  "description": "بوابة لآخرتي الذكية",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {
-    "express": "^4.19.2"
-  }
+  "dependencies": {}
 }
